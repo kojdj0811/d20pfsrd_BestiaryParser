@@ -1,0 +1,183 @@
+/*
+Theme Name: QuickStrap
+Theme URI: https://www.quickonlinetips.com/projects/quickstrap-wordpress-theme/
+Author: QuickOnlineTips
+Author URI: https://www.quickonlinetips.com/
+Description: A lightweight 3-columns responsive Bootstrap starter theme, Font Awesome preloaded, full width page options, footer widgets, SEO optimized, fast loading, minimal styling, easy to customize WordPress theme.
+Version: 1.1.6
+Tags: three-columns, right-sidebar, left-sidebar, threaded-comments, sticky-post, custom-background,  translation-ready, editor-style, custom-menu, featured-images
+Text Domain: quickstrap
+License: GNU General Public License v2.0
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+QuickStrap WordPress Theme, Copyright 2018 QuickOnlineTips.com
+QuickStrap is distributed under the terms of the GNU GPL
+*/
+
+
+/* Theme Validity --------------------- */
+
+.wp-caption {}
+
+.wp-caption-text {
+    font-style: italic;
+    color: #999;
+}
+
+.sticky {
+    background: #f9f9f9;
+    padding: 10px 15px 5px;
+    border: 1px solid #DDD;
+}
+
+.gallery-caption {
+    font-style: italic;
+    color: #999;
+}
+
+.bypostauthor {
+    background: #f9f9f9;
+}
+
+.alignright {
+    float: right;
+    margin-left: 5px;
+}
+
+.alignleft {
+    float: left;
+    margin-right: 5px;
+}
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Essential Styles ------------------- */
+
+body {
+    padding-top: 70px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold !important;
+}
+
+.sidebar,
+.sidebar-left,
+.footer-widget {
+    overflow: hidden;
+}
+
+.sidebar-widget ul,
+.footer-widget ul {
+    list-style: none !important;
+    padding-left: 0px;
+}
+
+.sidebar-widget li,
+.footer-widget li {
+    border-bottom: 1px solid #eee;
+    padding: 3px 0;
+}
+
+.sidebar-title {
+    margin-top: 20px;
+}
+
+.navbar-brand {
+    color: #ddd !important;
+}
+
+.post {
+    overflow: hidden;
+}
+
+.post img {
+    max-width: 100%;
+    height: auto;
+}
+
+.comment {
+    margin: 15px 0;
+    padding: 10px;
+    border: 1px solid #DDD;
+    list-style: none;
+}
+
+.commentlist {
+    padding-left: 0px;
+}
+
+.comment-author {
+    background: #f3f3f3;
+}
+
+.comment-meta {
+    font-size: 11px;
+    margin: 5px 0 10px;
+}
+
+.depth-2,
+.depth-3,
+.depth-4,
+.depth-5 {
+    list-style: none !important;
+}
+
+textarea {
+    width: 100%
+}
+
+embed,
+iframe,
+object,
+video {
+    max-width: 100%;
+}
+
+.main-footer {
+    background: #f6f6f6;
+    border-top: 1px solid #999;
+    margin-top: 20px;
+    padding: 10px 0;
+}
+
+
+/* Text for screen readers --------------- */
+
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+    /* Above WP toolbar. */
+}

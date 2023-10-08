@@ -1,0 +1,228 @@
+<html lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+
+  <link rel="stylesheet" id="quickstrap-css"
+    href="../css/d20pfsrd.com_wp-content_themes_quickstrap_style.css_ver=42654365bb1f7ff3089e26f84a595f49.css"
+    type="text/css" media="all">
+  <link rel="stylesheet" id="child-style-css"
+    href="../css/d20pfsrd_com_wp-content_themes_srdtheme_css_style.css_ver=1.15.0.css" type="text/css" media="all">
+  <link rel="stylesheet" id="quickstrap-bootstrap-css"
+    href="../css/d20pfsrd_com_wp-content_themes_quickstrap_css_bootstrap.min.css_ver=3.3.6.css" type="text/css"
+    media="all">
+  <link rel="stylesheet" id="child-dynamic-css"
+    href="../css/d20pfsrd_com_wp-content_themes_srdtheme_css_sites_12.css_ver=1691985679.css" type="text/css"
+    media="all">
+</head>
+
+<body class="page-template-default page page-id-59128 page-child parent-pageid-58778">
+  <!-- Delete : article-content-autowrap-1 -->
+
+  <!-- Content -->
+  <main role="main" class="pre-nextgen">
+    <article id="post-59128"
+      class="bestiary bestiarybytype constructs runeguardian post-59128 page type-page status-publish hentry">
+
+      <div class="row display-flex">
+        <div class="col-sm-9 col-md-9 col-lg-10 col-xs-12 article-text">
+          <div class="page-center">
+
+
+            <div id="article-content" class="article-content">
+              <div class="breadcrumbs">
+                <a class="bread-parent" parentid="52278" href="https://www.d20pfsrd.com/"
+                  title="Home">Home</a>&nbsp;&gt;<a class="bread-parent" parentid="57186"
+                  href="https://www.d20pfsrd.com/bestiary/" title="Bestiary">Bestiary</a>&nbsp;&gt;<a
+                  class="bread-parent" parentid="57428" href="https://www.d20pfsrd.com/bestiary/monster-listings/"
+                  title="(Bestiary) By Type">(Bestiary) By
+                  Type</a>&nbsp;&gt;<a class="bread-parent" parentid="58778"
+                  href="https://www.d20pfsrd.com/bestiary/monster-listings/constructs/"
+                  title="Constructs">Constructs</a>&nbsp;&gt;
+              </div>
+              <h1>Rune Guardian</h1>
+              <div class="statblock">
+                <p class="description">A carved rune detaches itself from the wall and floats silently in
+                  midair, glowing with arcane energy.</p>
+              </div>
+              <div class="statblock">
+                <p class="title">Rune Guardian <span class="level">CR 1</span></p>
+                <p><b>XP 400</b><br> N Tiny <a
+                    href="https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Construct">construct</a><br>
+                  <b>Init</b> +6; <b>Senses</b> <a
+                    href="https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Darkvision">darkvision</a>
+                  60 ft., <a
+                    href="https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Low-Light-Vision">low-light
+                    vision</a>; <a href="https://www.d20pfsrd.com/skills/perception">Perception</a> +3
+                </p>
+                <p class="divider">DEFENSE</p>
+                <p><b>AC</b> 14, <a href="https://www.d20pfsrd.com/gamemastering/combat#TOC-Touch-Attacks">touch</a> 14,
+                  <a href="https://www.d20pfsrd.com/gamemastering/conditions#TOC-Flat-Footed">flat-footed</a>
+                  12 (+2 <a
+                    href="https://www.d20pfsrd.com/basics-ability-scores/ability-scores#TOC-Dexterity-Dex-">Dex</a>,
+                  +2 <a href="https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Size-Bonus">size</a>)<br>
+                  <b>hp</b> 11 (2d10); <a
+                    href="https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules/#Fast_Healing_Ex">fast
+                    healing</a> 1<br> <b>Fort</b> +0, <b>Ref</b> +2, <b>Will</b> +2<br> <b>Immune</b> <a
+                    href="https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Construct-Traits-Ex-">construct
+                    traits</a>; <b>SR</b> 12<br> <b>Weaknesses</b> school vulnerability
+                </p>
+                <p class="divider">OFFENSE</p>
+
+                <p><b>Speed</b> fly 60 ft. (perfect)<br> <b>Melee</b> slam +2 (1d2–2)<br> <b>Special
+                    Attacks</b> sin magic<br> <b>Spell-Like Abilities</b> (CL 3rd; <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Concentration">concentration</a> +4)</p>
+                <p style="margin-left:40px"> <b>At will</b>—<a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/b/burning-hands">burning hands</a> (DC
+                  12), <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/c/color-spray">color
+                    spray</a> (DC 12), <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/h/hold-portal">hold
+                    portal</a>, <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement">ray
+                    of enfeeblement</a> (DC 12), <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/r/reduce-person">reduce person</a> (DC
+                  12), <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/s/sleep">sleep</a> (DC
+                  12), <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/s/summon-monster">summon monster
+                    I</a>
+                </p>
+                <p class="divider">STATISTICS</p>
+                <p><b>Str</b> 6, <b>Dex</b> 15, <b>Con</b> —, <b>Int</b> 11, <b>Wis</b> 14, <b>Cha</b> 12<br>
+                  <b>Base Atk</b> +2; <b>CMB</b> +2; <b>CMD</b> 10 (can’t be <a
+                    href="https://www.d20pfsrd.com/gamemastering/combat#TOC-Trip">tripped</a>)<br>
+                  <b>Feats</b> <a href="https://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat">Improved
+                    Initiative</a><br> <b>Skills</b> <a href="https://www.d20pfsrd.com/skills/fly">Fly</a>
+                  +18, <a href="https://www.d20pfsrd.com/skills/perception">Perception</a> +3, <a
+                    href="https://www.d20pfsrd.com/skills/stealth">Stealth</a> +12<br> <b>Languages</b> does
+                  not speak
+                </p>
+                <p class="divider">SPECIAL ABILITIES</p>
+                <h4>School Vulnerability (Ex)</h4>
+                <p>A rune guardian’s <a
+                    href="https://www.d20pfsrd.com/gamemastering/special-abilities#TOC-Spell-Resistance">spell
+                    resistance</a> does not apply against spells or effects from its opposition schools. Rune
+                  guardians of envy are vulnerable to <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Evocation">evocation</a> and
+                  <a href="https://www.d20pfsrd.com/magic#TOC-Necromancy">necromancy</a> spells, rune guardians
+                  of gluttony are vulnerable to <a href="https://www.d20pfsrd.com/magic#TOC-Abjuration">abjuration</a>
+                  and <a href="https://www.d20pfsrd.com/magic#TOC-Enchantment">enchantment</a> spells, rune
+                  guardians of greed are vulnerable to <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Enchantment">enchantment</a>
+                  and <a href="https://www.d20pfsrd.com/magic#TOC-Illusion">illusion</a> spells, rune guardians of
+                  lust are vulnerable to <a href="https://www.d20pfsrd.com/magic#TOC-Necromancy">necromancy</a> and <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Transmutation">transmutation</a> spells, rune
+                  guardians of pride are vulnerable to <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Conjuration">conjuration</a>
+                  and <a href="https://www.d20pfsrd.com/magic#TOC-Transmutation">transmutation</a> spells, rune
+                  guardians of sloth are vulnerable to <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Evocation">evocation</a>
+                  and
+                  <a href="https://www.d20pfsrd.com/magic#TOC-Illusion">illusion</a> spells, and rune guardians
+                  of wrath are vulnerable to <a href="https://www.d20pfsrd.com/magic#TOC-Abjuration">abjuration</a> and
+                  <a href="https://www.d20pfsrd.com/magic#TOC-Conjuration">conjuration</a> spells.
+                </p>
+                <h4>Sin Magic (Sp)</h4>
+                <p>A rune guardian has a single <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-">spell-like
+                    ability</a>,
+                  usable at will, from the school of magic associated with the reward of rule it represents.
+                  Rune guardians of envy cast <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/h/hold-portal">hold portal</a>, rune
+                  guardians of gluttony cast <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement">ray of
+                    enfeeblement</a>, rune guardians of greed cast <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/r/reduce-person">reduce person</a>, rune
+                  guardians of lust cast <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/s/sleep">sleep</a>,
+                  rune guardians of
+                  pride cast <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/c/color-spray">color
+                    spray</a>,
+                  rune
+                  guardians of sloth cast <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/s/summon-monster">summon monster I</a>,
+                  and rune guardians of wrath cast <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/b/burning-hands">burning hands</a>.</p>
+              </div>
+              <div class="statblock">
+                <p class="divider">ECOLOGY</p>
+                <p><b>Environment</b> any<br> <b>Organization</b> solitary, pair, or syllabary (7 rune
+                  guardians, 1 of each sin)<br> <b>Treasure</b> none</p>
+                <p>Rune guardians are animated <a
+                    href="https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Construct">constructs</a>
+                  created to guard laboratories, ossuaries, and repositories of lore. Each rune guardian is
+                  dedicated to one of the seven rewards of rule (now known as the seven sins of the soul), and
+                  empowered with that sin’s associated school of magic. As such, there are seven varieties of
+                  rune guardian, each recognizable by its shape—that of the rune representing that specific sin
+                  and arcane school. Unlike <a
+                    href="https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem">golems</a>, rune
+                  guardians are intelligent, able to follow complex orders and pursue intruders. They were built
+                  to coordinate with other servants of the rune lords—for example, an envy guardian’s <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/h/hold-portal">hold portal</a>
+                  ability is more dangerous when used to lock someone in a room with a servitor monster.</p>
+                <p>A rune guardian is approximately 1 foot in diameter and weighs around 10 pounds.</p>
+                <h3>Variants</h3>
+                <p>The statistics presented here represent only the least specimen created by the ancient
+                  runelords, with the power of a single 1st-level spell. Other variants exist, with different <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-">spell-like abilities</a>
+                  or ones of increasing magical power.</p>
+                <p>Rune guardians are always tied to one school of magic, and all of a rune guardian’s <a
+                    href="https://www.d20pfsrd.com/basics-ability-scores/glossary#TOC-Spell-Like-Abilities-Sp-">spell-like</a>
+                  abilities must come from that school. For example, a rune guardian of wrath might cast <a
+                    class="spell" href="https://www.d20pfsrd.com/magic/all-spells/m/magic-missile">magic
+                    missile</a> or <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/s/shocking-grasp">shocking
+                    grasp</a> instead
+                  of <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/b/burning-hands">burning
+                    hands</a>. In addition to the <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Spell-Like-Abilities-Sp-">spell-like
+                    ability</a>
+                  listed above, more powerful rune guardians of gluttony might possess the ability to cast <a
+                    class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/b/blindness-deafness"><i>blindness/deafness</i></a>
+                  or <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/r/ray-of-exhaustion">ray
+                    of exhaustion</a>.</p>
+                <h3>Construction</h3>
+                <p>A rune guardian’s body is carved from a single block of semiprecious stone, then polished and
+                  treated with rare dusts and oils worth at least 500 gp.</p>
+                <p><b>CL</b> 11th; <b>Price</b> 6,500 gp</p>
+                <p class="divider">CONSTRUCTION REQUIREMENTS</p>
+                <p><b>Feats</b> <a
+                    href="https://www.d20pfsrd.com/feats/item-creation-feats/craft-construct-item-creation">Craft
+                    Construct</a>, <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/f/fly">fly</a>, <a
+                    class="spell" href="https://www.d20pfsrd.com/magic/all-spells/g/geas-quest"><i>geas/quest</i></a>,
+                  plus <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/b/burning-hands">burning
+                    hands</a>, <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/c/color-spray">color
+                    spray</a>,
+                  <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/h/hold-portal">hold
+                    portal</a>, <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement">ray of
+                    enfeeblement</a>, <a class="spell"
+                    href="https://www.d20pfsrd.com/magic/all-spells/r/reduce-person">reduce
+                    person</a>, <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/s/sleep">sleep</a>, or
+                  <a class="spell" href="https://www.d20pfsrd.com/magic/all-spells/s/summon-monster">summon
+                    monster I</a>; <b>Special</b> creator must be <a
+                    href="https://www.d20pfsrd.com/magic#TOC-Caster-Level">caster
+                    level</a> 11th; <b>Skill</b>
+                  <a href="https://www.d20pfsrd.com/skills/craft">Craft</a> (stonecarving) DC 16; <b>Cost</b>
+                  3,500 gp
+                </p>
+                <div class="section15">
+                  <div>Section 15: Copyright Notice</div>
+                  <div>
+                    <p>Pathfinder Module: The Godsmouth Heresy. © 2010, Paizo Publishing, LLC; Author: Rob
+                      McCreary.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </main>
+
+</body>
+
+</html>
